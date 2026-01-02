@@ -1,4 +1,5 @@
-``This faucet lists will always be updated
+This faucet lists will always be updated
+
 **Last update: January 2, 2026**
 
 First of all you have to [create a microwallet account](https://faucetpay.io/?r=81995) to receive crypto
