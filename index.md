@@ -28,3 +28,4 @@ _Instant faucet_: Direct coin to your micro wallet.
 7. <a href="https://forumcoin.win/faucets.php" target="_blank">ForumCoinWin</a>
 8. <a href="https://coindiversity.io/free-coins" target="_blank">CoinDiversity</a>
 9. <a href="https://beefaucet.org" target="_blank">BeeFaucet</a>
+10. <a href="https://freedgb.com/?r=koinku55@gmail.com" target="_blank">FreeDGB</a>DigiByte only
