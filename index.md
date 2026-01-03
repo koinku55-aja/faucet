@@ -29,4 +29,5 @@ _Instant faucet_: Direct coin to your micro wallet.
 8. <a href="https://coindiversity.io/free-coins" target="_blank">CoinDiversity</a>
 9. <a href="https://beefaucet.org" target="_blank">BeeFaucet</a>
 10. <a href="https://coindoog.com/?r=13886" target="_blank">CoinDog</a>
-11. <a href="https://freedgb.com/?r=koinku55@gmail.com" target="_blank">FreeDGB</a>DigiByte only
+11. <a href="https://freedgb.com/?r=koinku55@gmail.com" target="_blank">FreeDGB</a>: DigiByte only
+12. <a href="https://cryptoearns.com/?r=4995" target="_blank">CryptoEarns</a>
