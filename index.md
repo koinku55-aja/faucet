@@ -9,6 +9,10 @@ _Multicoin faucet_: You must collect a minimum number of tokens or coins to be a
 2. <a href="https://althub.club/r/49471" target="_blank">Althub</a>: Faucets every 30 minutes, PTC, shortlinks, and Solidwalls (Instant withdrawal).
 3. <a href="https://aruble.net/?r=I8y7g67fmz" target="_blank">Aruble</a>: Faucets every 5 minutes, PTC, shortlinks (instant withdrawal with no delay and low minimum balance for withdrawals)
 
+_Paid to Click_: These webs, does not provide faucets like before, only ptc and the like.
+1. <a href="https://www.coinpayu.com/?r=koinku55" target="_blank">CoinPayu</a>
+2. <a href="https://www.neobux.com" target="_blank">NeoBux</a>
+3. <a href="https://coinzi.net/?r=29613" target="_blank">Coinzi</a>
 
 _Instant faucet_: Direct coin to your micro wallet.
 1. <a href="https://onlyfaucet.com/?r=147522" target="_blank">OnlyFaucet</a>
