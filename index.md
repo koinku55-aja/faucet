@@ -18,3 +18,4 @@ _Instant faucet_: Direct coin to your micro wallet.
 1. <a href="https://onlyfaucet.com/?r=147522" target="_blank">OnlyFaucet</a>
 2. <a href="https://chillfaucet.in/?r=24377" target="_blank">ChillFaucet</a>
 3. <a href="https://claimfreecoins.io" target="_blank">ClaimFreeCoins</a>
+4. <a href="https://faucetpaymy.com/?ref=1947" target="_blank">FaucetPayMy</a>: you have to click on the ad banner first to run the faucet or through PTC (Launched December 2025)
