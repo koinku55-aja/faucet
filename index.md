@@ -12,4 +12,4 @@ _Multicoin faucet_: You must collect a minimum number of tokens or coins to be a
 
 _Instant faucet_: Direct coin to your micro wallet.
 1. <a href="https://onlyfaucet.com/?r=147522" target="_blank">OnlyFaucet</a>
-2.
+2. <a href="https://claimfreecoins.io" target="_blank">ClaimFreeCoins</a>
