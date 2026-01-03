@@ -1,7 +1,5 @@
 ``This faucet lists will always be updated
 
-**Last update: January 3, 2026**
-
 First of all you have to <a href="https://faucetpay.io/?r=81995" target="_blank">create a microwallet account</a> to receive crypto
 
 _Multicoin faucet_: You must collect a minimum number of tokens or coins to be able to make a withdrawal.
