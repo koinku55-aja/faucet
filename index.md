@@ -15,7 +15,7 @@ _Paid to Click_: These webs do not provide faucets like before, only ptc and sim
 1. <a href="https://www.coinpayu.com/?r=koinku55" target="_blank">CoinPayu</a>
 2. <a href="https://www.neobux.com" target="_blank">NeoBux</a>
 3. <a href="https://coinzi.net/?r=29613" target="_blank">Coinzi</a>
-4. <a href="https://cointiply.com/r/1QvAZ" target="_blank">Cointiply</a>: high minimum payment
+4. <a href="https://cointiply.com/r/1QvAZ" target="_blank">Cointiply</a>: high minimum withdrawal threshold
 
 _Instant faucet_: Direct coin to your micro wallet.
 1. <a href="https://onlyfaucet.com/?r=147522" target="_blank">OnlyFaucet</a>
