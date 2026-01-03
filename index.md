@@ -10,7 +10,8 @@ _Multicoin faucet_: You must collect a minimum number of tokens or coins to be a
 3. <a href="https://aruble.net/?r=I8y7g67fmz" target="_blank">Aruble</a>: Faucets every 5 minutes, PTC, shortlinks (instant withdrawal with no delay and low minimum balance for withdrawals)
 4. <a href="https://faucetpayz.com/ref/koinku55" target="_blank">FaucetPayz</a>: Faucets every 4 minutes, PTC, shortlinks, and offerwall (Bitcoin only)
 5. <a href="https://free-bonk.com/?r=126405" target="_blank">FreeBonk</a>: Faucets every minutes (Accept micro wallet only: FaucetPay, and Cwallet)
-6. <a href="https://viefaucet.com?r=64e55a77556c8e630e04ca73" target="_blank">VieFaucet</a>: Faucets every 4 minutes, high minimum withdrawal threshold (Accept direct wallet, FaucetPay, and Cwallet)
+6. <a href="https://earn-pepe.com/?ref=kFvD5" target="_blank">EarnPepe</a>: Default crypto is PEPE, but it can be changed. Low minimum withdrawal threshold (Accept micro wallet only: FaucetPay, and Cwallet)
+7. <a href="https://viefaucet.com?r=64e55a77556c8e630e04ca73" target="_blank">VieFaucet</a>: Faucets every 4 minutes, high minimum withdrawal threshold (Accept direct wallet, FaucetPay, and Cwallet)
 
 _Paid to Click_: These webs do not provide faucets like before, only ptc and similar.
 1. <a href="https://www.coinpayu.com/?r=koinku55" target="_blank">CoinPayu</a>
