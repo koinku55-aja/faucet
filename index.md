@@ -24,5 +24,6 @@ _Instant faucet_: Direct coin to your micro wallet.
 3. <a href="https://claimfreecoins.io" target="_blank">ClaimFreeCoins</a>
 4. <a href="https://cryptofaucetscan.com/crypto/r/vJMq2rw" target="_blank">CryptoFaucetScan</a>: You have to verified by using Telegram
 5. <a href="https://faucetpaymy.com/?ref=1947" target="_blank">FaucetPayMy</a>: you have to click on the ad banner first to run the faucet or through PTC (Launched December 2025)
-6. <a href="https://excoinbit.online" target=_blank">ExCoinBit</a>
-7. <a href="https://beefaucet.org" target="_blank">BeeFaucet</a>
+6. <a href="https://excoinbit.online" target="_blank">ExCoinBit</a>
+7. <a href="https://forumcoin.win/faucets.php" target="_blank">ForumCoinWin</a>
+8. <a href="https://beefaucet.org" target="_blank">BeeFaucet</a>
