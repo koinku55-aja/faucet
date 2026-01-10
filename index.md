@@ -30,3 +30,8 @@ _Instant faucet_: Direct coin to your micro wallet.
 10. <a href="https://coindoog.com/?r=13886" target="_blank">CoinDog</a>
 11. <a href="https://freedgb.com/?r=koinku55@gmail.com" target="_blank">FreeDGB</a>: DigiByte only
 12. <a href="https://cryptoearns.com/?r=4995" target="_blank">CryptoEarns</a>
+
+Bitcoin only:
+1. <a href="https://btcfaucet.in/?r=koinku55@gmail.com" target="_blank">BtcFaucet</a>
+2. <a href="https://target.1eon-uno.top/?r=koinku55" target="_blank">TargetLeonFaucet</a>
+3. <a href="https://bitcoinisok.com/bitcoinfaucets/?r=1EU9s8YgRremvGNsqQobEiakVDv8LrogfC" target="_blank">BitcoinIsok</a>
